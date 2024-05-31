@@ -1,4 +1,3 @@
-# 2024-Quantum-VIU
 <center><img src="/images/qcomp.png?raw=true" alt="Sistema de IBM" width="300"  /></center>
 
 
