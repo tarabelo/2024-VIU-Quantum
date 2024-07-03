@@ -20,7 +20,7 @@ Programa (tentativo):
   - [Bits cuánticos o cúbits](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#cubits)
   - [Medida del estado](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#medida)
   - [Observables, valor esperado y matrices de Pauli](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#observables)
-  - (Opcional)[Errores, matrices de densidad y estados mezcla](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#errores)
+  - (Opcional) [Errores, matrices de densidad y estados mezcla](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#errores)
 
 **Martes 9/7/24 17:30-20:00**
 
@@ -30,7 +30,7 @@ Programa (tentativo):
   - [Puertas controladas: CNOT](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#cnot)
   - [Otras puertas](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#otras)
 
-**Miércoles 9/7/24 17:30-20:00**
+**Miércoles 10/7/24 17:30-20:00**
 
 - [Algoritmos cuánticos clásicos](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb)
   - [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#paralelismo)
