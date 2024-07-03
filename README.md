@@ -10,9 +10,10 @@ Programa (tentativo):
 **Jueves 1 8:30-10:15**
 
 - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb" target="_blank">Historia y estado actual de la computación cuántica</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=Ojo6AHpeoenz" target="_blank">Historia de la computación cuántica</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=2c299629" target="_blank">Sistemas cuánticos actuales</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=108aab0e" target="_blank">Introducción a Qiskit</a>
+  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#intro" target="_blank">Historia de la computación cuántica</a>
+  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#historia" target="_blank">Historia de la computación cuántica</a>
+  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#sistemas" target="_blank">Sistemas cuánticos actuales</a>
+  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#qiskit" target="_blank">Introducción a Qiskit</a>
 
 - [Bits y cúbits](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb)
   - [Bits clásicos como vectores](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#bits)
